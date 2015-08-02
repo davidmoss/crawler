@@ -1,0 +1,13 @@
+button {
+    margin-left: 5px;
+}
+.extra-links {
+    display: none;
+}
+.list-group-item > .list-group{
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+.list-group-item-sm{
+    padding: 5px 10px;
+}
